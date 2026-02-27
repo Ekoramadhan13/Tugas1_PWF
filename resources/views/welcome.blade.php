@@ -27,6 +27,7 @@
             {{-- Card --}}
             <div class="bg-[#161615] border border-[#fffaed2d] rounded-lg p-20 shadow-[inset_0px_0px_0px_1px_#fffaed2d]">
 
+            
                 {{-- Nama --}}
                 <p class="text-[#EDEDEC] font-semibold text-sm mb-1">
                     Eko Ramadhan Nugroho
