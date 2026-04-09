@@ -74,3 +74,38 @@ ABOUT
 
 <img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134838" src="https://github.com/user-attachments/assets/7e9e00c4-1159-44c2-938b-477e00181c3e" />
 
+
+
+***TUGAS 5***
+
+
+**Pengujian 1 — Persiapan Role untuk mengetahaui role nya dengan commant php artisan tinker**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 122238" src="https://github.com/user-attachments/assets/8431e02f-e820-44b0-8ed8-c9e33fdb5684" />
+
+
+**Pengujian 2 — Gate manage-product Admin melihat menu Product di navigasi (dapat melihat tombol Delete,Edit,Detail untuk semua produk admin)**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 121737" src="https://github.com/user-attachments/assets/6c1d2431-16e4-4141-ae5f-b20400dd1f92" />
+
+
+**Di Navbar Regular User menu Product tidak muncul**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 121622" src="https://github.com/user-attachments/assets/7a3ace26-2792-4cf5-84ef-8f4320d3d50d" />
+
+
+**Regular user mendapat 403 saat coba edit produk milik orang lain**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 121935" src="https://github.com/user-attachments/assets/a6a2e15f-ae31-4291-aea1-d0fcac7a6ac4" />
+
+
+**Pengujian 3 Policy admin pilih User Reguler sebagai Owner**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 122146" src="https://github.com/user-attachments/assets/40b7f495-27a2-4ad7-b808-ce601fcdda3b" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 122159" src="https://github.com/user-attachments/assets/e5d1fa8c-3fef-43cf-b10a-2b671482998e" />
+
+
+**Tombol Edit & Delete hanya muncul untuk produk milik sendiri (regular user)**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-09 122015" src="https://github.com/user-attachments/assets/10a81c77-0924-42dd-a69d-e7015c16b594" />
+
