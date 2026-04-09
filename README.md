@@ -48,3 +48,29 @@ ABOUT
 
 <img width="1920" height="1080" alt="Cuplikan layar 2026-03-10 212348" src="https://github.com/user-attachments/assets/140a4cae-7a58-4c8b-8a09-fde2ed77c3e3" />
 <img width="1920" height="1080" alt="Cuplikan layar 2026-03-10 212356" src="https://github.com/user-attachments/assets/db8e1320-2f84-47f6-a7f1-25e0b492da79" />
+
+
+**TUGAS 4**
+
+
+**CREATE**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134121" src="https://github.com/user-attachments/assets/aa2da690-67a0-4ceb-b3b9-44115e16f415" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134153" src="https://github.com/user-attachments/assets/8b331625-2036-4433-8365-80f4ea6fba8d" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134217" src="https://github.com/user-attachments/assets/da4fa18f-8da9-4b03-a665-84fd12d22ee0" />
+
+
+**UPDATE**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134237" src="https://github.com/user-attachments/assets/57d15b2c-2cc0-4698-87c9-dc65118811d0" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134250" src="https://github.com/user-attachments/assets/871dbb32-c1bb-4277-af81-1c9613bd7603" />
+
+**DELETE**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134306" src="https://github.com/user-attachments/assets/309d37aa-0a40-4490-a81f-648c03d13a0f" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134316" src="https://github.com/user-attachments/assets/0159d026-1cda-4f1f-88c3-637258cdb21b" />
+
+**VIEW DETAIL**
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-13 134838" src="https://github.com/user-attachments/assets/7e9e00c4-1159-44c2-938b-477e00181c3e" />
+
